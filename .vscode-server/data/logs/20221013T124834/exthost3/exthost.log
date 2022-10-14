@@ -1,0 +1,15 @@
+[2022-10-13 12:50:32.329] [exthost] [info] Extension host with pid 2431 started
+[2022-10-13 12:50:32.356] [exthost] [info] Lock '/home/zudarr/.vscode-server/data/User/workspaceStorage/0eb2957798c583f017db09a32490de79/vscode.lock': Lock acquired.
+[2022-10-13 12:50:32.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-13 12:50:32.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-13 12:50:32.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-13 12:50:32.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-13 12:50:32.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-13 12:50:33.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-13 12:50:33.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-13 12:50:33.471] [exthost] [info] Eager extensions activated
+[2022-10-13 13:08:04.461] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-10-13 14:29:09.380] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: false, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-10-13 16:02:18.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-13 16:02:18.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-13 16:02:18.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

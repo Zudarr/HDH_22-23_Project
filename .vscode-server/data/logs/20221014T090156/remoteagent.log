@@ -1,0 +1,5 @@
+[2022-10-14 09:01:56.737] [remoteagent] [info] Extension host agent started.
+[2022-10-14 09:01:57.029] [remoteagent] [info] [127.0.0.1][9787da4a][ManagementConnection] New connection established.
+[2022-10-14 09:01:57.129] [remoteagent] [info] [127.0.0.1][20d41f04][ExtensionHostConnection] New connection established.
+[2022-10-14 09:01:57.162] [remoteagent] [info] [127.0.0.1][20d41f04][ExtensionHostConnection] <1474> Launched Extension Host Process.
+[2022-10-14 09:01:57.803] [remoteagent] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/zudarr/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.10.1

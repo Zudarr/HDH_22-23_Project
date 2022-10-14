@@ -1,0 +1,16 @@
+[2022-10-14 01:36:38.939] [exthost] [info] Extension host with pid 2243 started
+[2022-10-14 01:36:38.994] [exthost] [info] Lock '/home/zudarr/.vscode-server/data/User/workspaceStorage/0eb2957798c583f017db09a32490de79/vscode.lock': Lock acquired.
+[2022-10-14 01:36:39.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-14 01:36:39.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-14 01:36:39.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-14 01:36:39.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-14 01:36:39.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-14 01:36:40.045] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-10-14 01:36:40.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 01:36:40.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 01:36:40.336] [exthost] [info] Eager extensions activated
+[2022-10-14 01:36:45.046] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-10-14 01:37:04.479] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 01:37:28.552] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-14 01:37:28.552] [exthost] [info] Lock '/home/zudarr/.vscode-server/data/User/workspaceStorage/0eb2957798c583f017db09a32490de79/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-14 01:37:28.609] [exthost] [info] Extension host with pid 2243 exiting with code 0

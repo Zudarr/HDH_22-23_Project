@@ -1,0 +1,19 @@
+[2022-10-12 12:45:04.160] [remoteagent] [info] Extension host agent started.
+[2022-10-12 12:45:04.447] [remoteagent] [info] [127.0.0.1][0b501fef][ManagementConnection] New connection established.
+[2022-10-12 12:45:04.562] [remoteagent] [info] [127.0.0.1][ff03b1d6][ExtensionHostConnection] New connection established.
+[2022-10-12 12:45:04.578] [remoteagent] [info] [127.0.0.1][ff03b1d6][ExtensionHostConnection] <8355> Launched Extension Host Process.
+[2022-10-12 12:46:18.088] [remoteagent] [info] [127.0.0.1][0b501fef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-12 12:46:18.113] [remoteagent] [info] [127.0.0.1][ff03b1d6][ExtensionHostConnection] <8355> Extension Host Process exited with code: 0, signal: null.
+[2022-10-12 12:46:18.114] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-12 12:46:26.660] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-12 12:46:26.660] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-12 12:46:26.774] [remoteagent] [info] [127.0.0.1][58c189af][ManagementConnection] New connection established.
+[2022-10-12 12:46:26.775] [remoteagent] [info] [127.0.0.1][12ddfcbe][ExtensionHostConnection] New connection established.
+[2022-10-12 12:46:26.779] [remoteagent] [info] [127.0.0.1][12ddfcbe][ExtensionHostConnection] <8511> Launched Extension Host Process.
+[2022-10-12 12:47:30.315] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-10-12 12:47:30.650] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-10-12 12:47:57.398] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/zudarr/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-10-12 12:48:00.491] [remoteagent] [info] Extracted extension to /home/zudarr/.vscode-server/extensions/.54ea1d59-5592-4a5f-bbc7-f783bd176edb: ms-vscode.cpptools
+[2022-10-12 12:48:00.500] [remoteagent] [info] Renamed to /home/zudarr/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-10-12 12:48:00.541] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-10-12 12:48:00.544] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools

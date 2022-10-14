@@ -1,0 +1,14 @@
+[2022-10-13 12:49:15.371] [exthost] [info] Extension host with pid 2187 started
+[2022-10-13 12:49:15.408] [exthost] [info] Lock '/home/zudarr/.vscode-server/data/User/workspaceStorage/0eb2957798c583f017db09a32490de79/vscode.lock': Lock acquired.
+[2022-10-13 12:49:15.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-13 12:49:15.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-13 12:49:15.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-13 12:49:15.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-13 12:49:15.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-13 12:49:15.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-13 12:49:15.683] [exthost] [info] Eager extensions activated
+[2022-10-13 12:49:16.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-10-13 12:49:34.869] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-10-13 12:50:22.239] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-13 12:50:22.239] [exthost] [info] Lock '/home/zudarr/.vscode-server/data/User/workspaceStorage/0eb2957798c583f017db09a32490de79/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-13 12:50:22.304] [exthost] [info] Extension host with pid 2187 exiting with code 0

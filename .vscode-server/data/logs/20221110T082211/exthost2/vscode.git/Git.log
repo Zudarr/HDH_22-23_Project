@@ -1,0 +1,35 @@
+2022-11-10 08:22:31.144 [info] Validating found git in: git
+2022-11-10 08:22:31.144 [info] Using git 2.17.1 from git
+2022-11-10 08:22:31.144 [info] > git rev-parse --show-toplevel [40ms]
+2022-11-10 08:22:31.144 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2022-11-10 08:22:31.144 [info] Log level: Info
+2022-11-10 08:22:31.144 [info] Open repository: /home/zudarr
+2022-11-10 08:22:31.145 [info] > git remote --verbose [14ms]
+2022-11-10 08:22:31.145 [info] > git rev-parse --show-toplevel [13ms]
+2022-11-10 08:22:31.145 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2022-11-10 08:22:31.145 [info] > git config --get commit.template [45ms]
+2022-11-10 08:22:31.145 [info] > git rev-parse --show-toplevel [76ms]
+2022-11-10 08:22:31.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [173ms]
+2022-11-10 08:22:31.145 [info] > git rev-parse --show-toplevel [167ms]
+2022-11-10 08:22:31.145 [info] > git rev-parse --show-toplevel [13ms]
+2022-11-10 08:22:31.153 [info] > git rev-parse --show-toplevel [9ms]
+2022-11-10 08:22:31.850 [info] > git rev-parse --show-toplevel [686ms]
+2022-11-10 08:22:31.893 [info] > git rev-parse --show-toplevel [2ms]
+2022-11-10 08:22:31.906 [info] > git fetch [1086ms]
+2022-11-10 08:22:31.912 [info] warning: redirecting to https://github.com/Zudarr/HDH_Project1.git/
+2022-11-10 08:22:31.991 [info] > git status -z -uall [1160ms] (cancelled)
+2022-11-10 08:22:31.992 [info] > git check-ignore -v -z --stdin [171ms]
+2022-11-10 08:22:31.998 [info] > git status -z -uall [48ms] (cancelled)
+2022-11-10 08:22:31.999 [info] > git remote --verbose [40ms]
+2022-11-10 08:22:31.999 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [44ms]
+2022-11-10 08:22:32.000 [info] > git remote --verbose [54ms]
+2022-11-10 08:22:32.005 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [63ms]
+2022-11-10 08:22:32.005 [info] > git rev-parse --show-toplevel [100ms]
+2022-11-10 08:22:32.052 [info] > git config --get commit.template [62ms]
+2022-11-10 08:22:32.052 [info] > git config --get commit.template [81ms]
+2022-11-10 08:22:32.053 [info] > git rev-parse --show-toplevel [42ms]
+2022-11-10 08:22:32.183 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [112ms]
+2022-11-10 08:22:32.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [121ms]
+2022-11-10 08:22:32.185 [info] > git rev-parse --show-toplevel [127ms]
+2022-11-10 08:22:32.208 [info] > git rev-parse --show-toplevel [14ms]
+2022-11-10 08:22:32.891 [info] > git status -z -uall [928ms]

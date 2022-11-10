@@ -1,0 +1,27 @@
+2022-11-03 10:02:52.688 [info] Extension host agent started.
+2022-11-03 10:02:53.092 [info] [127.0.0.1][6489da64][ManagementConnection] New connection established.
+2022-11-03 10:02:53.264 [info] [127.0.0.1][22361da1][ExtensionHostConnection] New connection established.
+2022-11-03 10:02:53.286 [info] [127.0.0.1][22361da1][ExtensionHostConnection] <1410> Launched Extension Host Process.
+2022-11-03 10:03:33.980 [info] [127.0.0.1][6489da64][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-03 10:03:34.004 [info] [127.0.0.1][22361da1][ExtensionHostConnection] <1410> Extension Host Process exited with code: 0, signal: null.
+2022-11-03 10:03:34.005 [info] Last EH closed, waiting before shutting down
+2022-11-03 10:03:40.668 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-11-03 10:03:40.668 [info] Cancelling previous shutdown timeout
+2022-11-03 10:03:40.756 [info] [127.0.0.1][80137973][ManagementConnection] New connection established.
+2022-11-03 10:03:40.756 [info] [127.0.0.1][d98c5687][ExtensionHostConnection] New connection established.
+2022-11-03 10:03:40.761 [info] [127.0.0.1][d98c5687][ExtensionHostConnection] <1608> Launched Extension Host Process.
+2022-11-03 10:03:43.249 [error] CodeExpectedError: Could not find pty on pty host
+    at d._throwIfNoPty (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:27:7199)
+    at d.updateTitle (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:27:2931)
+    at Object.call (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:17:5858)
+    at s.onPromise (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)
+    at s.onRawMessage (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)
+    at /home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:15:4502
+    at r.invoke (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at P.deliver (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)
+    at w.fire (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)
+    at process.M (/home/zudarr/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/out/vs/platform/terminal/node/ptyHostMain.js:9:21066)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-11-03 10:08:40.670 [info] New EH opened, aborting shutdown

@@ -1,0 +1,18 @@
+{
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 2,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "remote.SSH.remotePlatform": {
+        "192.168.1.3": "linux",
+        "192.168.1.6": "linux",
+        "192.168.1.22": "linux"
+    },
+    "git.autofetch": true
+}

@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "limits": "cpp",
-        "char_io": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "Disabled"
-}

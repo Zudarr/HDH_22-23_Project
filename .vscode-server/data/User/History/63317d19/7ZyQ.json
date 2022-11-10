@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "limits": "cpp",
-        "char_io": "cpp",
-        "syscall.h": "c",
-        "console.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "Disabled"
-}

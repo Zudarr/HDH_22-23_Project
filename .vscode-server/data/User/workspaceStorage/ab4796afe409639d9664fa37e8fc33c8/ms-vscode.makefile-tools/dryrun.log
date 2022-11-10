@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/zudarr/nachos/NachOS-4.0/code'
-make: Leaving directory '/home/zudarr/nachos/NachOS-4.0/code'
- 
-make: *** No targets specified and no makefile found.  Stop.
-

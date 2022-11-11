@@ -2,10 +2,13 @@
 
 int main()
 {
-    char* filename = "Hello.txt";
+    char *filename;
     int fileID;
     char temp;
     int size;
+
+    PrintString("Enter file name: ");
+    ReadString(filename, 33);
 
     fileID = Open(filename);
     size = Seek(-1, fileID);
